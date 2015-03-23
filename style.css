@@ -1,0 +1,26 @@
+
+body {
+	font:12px verdana, arial, sans-serif;
+	background-color: WhiteSmoke;
+}
+
+h1 {
+	font: 32px impact;
+	color: dimgray;
+}
+h2 {
+	font: 24px impact;
+	color: dimgray;
+}
+table, th, td {
+	border: 1px solid black;
+	padding: 15px 
+}
+th {
+	font-weight: bold;
+	background-color: dimgray;
+	color: white;
+}
+td {
+	font-weight: normal;
+}
