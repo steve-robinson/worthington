@@ -5,11 +5,11 @@ body {
 }
 
 h1 {
-	font: 32px impact;
+	font: 32px "arial black";
 	color: dimgray;
 }
 h2 {
-	font: 24px impact;
+	font: 24px "arial black";
 	color: dimgray;
 }
 table, th, td {
